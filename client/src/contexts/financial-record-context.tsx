@@ -5,8 +5,9 @@ export interface FinancialRecord {
   _id?: string;
   userId: string;
   date: Date;
-  description: string;
+  note: string;
   amount: number;
+  transaction: string;
   category: string;
   paymentMethod: string;
 }

@@ -3,8 +3,9 @@ import mongoose from "mongoose";
 interface FinancialRecord {
   userId: string;
   date: Date;
-  description: string;
+  note: string;
   amount: number;
+  transaction: string;
   category: string;
   paymentMethod: string;
 }
@@ -12,8 +13,9 @@ interface FinancialRecord {
 const financialRecordSchema = new mongoose.Schema<FinancialRecord>({
   userId: { type: String, required: true },
   date: { type: Date, required: true },
-  description: { type: String, required: true },
+  note: { type: String, required: true },
   amount: { type: Number, required: true },
+  transaction: { type: String, required: true },
   category: { type: String, required: true },
   paymentMethod: { type: String, required: true },
 });
