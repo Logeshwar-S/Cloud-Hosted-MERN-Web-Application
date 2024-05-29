@@ -19,6 +19,8 @@ MyFinance is a personal finance tracker application built using the MERN (MongoD
 
 ## Demo
 
+https://github.com/Logeshwar-S/My_Finance/assets/83489133/cc165458-025c-446e-af8e-873e5c9eee6d
+
 ## Contributing
 
 Contributions to this project are welcome! If you'd like to contribute, feel free to fork the repository and submit a pull request with your changes.
