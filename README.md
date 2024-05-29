@@ -16,7 +16,6 @@ MyFinance is a personal finance tracker application built using the MERN (MongoD
 
 - Frontend: React.js, Vite, Clerk
 - Backend: Node.js, Express.js, MongoDB, Mongoose
-- Deployment: MongoDB Atlas (database)
 
 ## Demo
 
