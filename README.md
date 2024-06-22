@@ -1,6 +1,6 @@
 # MyFinance
 
-MyFinance is a personal finance tracker application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It helps users manage their financial records, track expenses and incomes, and analyze their spending habits.
+MyFinance is a personal finance tracker application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It helps users manage their financial records, track expenses and incomes, and analyze their spending habits.The MyFinance website is deployed on an AWS EC2 instance, ensuring efficient deployment and scalability.
 
 ## Features
 
